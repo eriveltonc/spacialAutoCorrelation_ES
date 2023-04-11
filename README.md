@@ -36,4 +36,4 @@ IJSN - Instituto Jhones do Santos Neves
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](http://license.md/) para detalhes.
+Este projeto está licenciado sob a Licença MIT.
